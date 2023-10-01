@@ -1,37 +1,4 @@
 # Wikipedia Scraper and Summarizer 📚📝
-
-## Table of Contents
-1. [Introduction](#introduction)
-   - [Flow of the Project](#flow-of-the-project)
-2. [Report](#report)
-   - [Design Decisions](#design-decisions)
-   - [Challenges Encountered](#challenges-encountered)
-   - [Error Analysis](#error-analysis)
-3. [Scrape Data from Wikipedia](#scrape-data-from-wikipedia)
-   - [Introduction](#introduction)
-   - [Flowchart](#flowchart)
-   - [Code Explanation](#code-explanation)
-4. [Text Summarization and Document Saving](#text-summarization-and-document-saving)
-   - [Introduction](#introduction)
-   - [Flowchart](#flowchart)
-   - [Code Explanation](#code-explanation)
-   - [Conclusion](#conclusion)
-5. [Quality Evaluation](#quality-evaluation)
-   - [Information Retention](#information-retention)
-   - [Readability](#readability)
-   - [Clarity and Conciseness](#clarity-and-conciseness)
-   - [Relevance](#relevance)
-   - [Engagement](#engagement)
-   - [Coherence](#coherence)
-6. [Chatbot for Scrapped Data](#chatbot-for-scrapped-data)
-   - [Introduction](#introduction)
-   - [Chatbot Usage](#chatbot-usage)
-7. [Dataset Creation from Wikipedia Content](#dataset-creation-from-wikipedia-content)
-   - [Introduction](#introduction)
-   - [Flow Chart](#flow-chart)
-   - [Code Implementation](#code-implementation)
-   - [Conclusion](#conclusion)
-
 ## Introduction 🌐
 
 This project involves scraping information from Wikipedia and generating summaries of the scraped content. The project is divided into several components, including data scraping, text summarization, quality evaluation, chatbot integration, and dataset creation.
