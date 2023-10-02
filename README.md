@@ -34,7 +34,8 @@ This project involves scraping information from Wikipedia and generating summari
 ![image](https://github.com/DruvaSadvik/Wikipedia-Scraper-and-Summarizer/assets/113775020/4ed2ccf4-5659-496c-9d7a-768d1a5b995a)
 
 1. **Scrape Data from Wikipedia:** Use the Beautiful Soup library in Python to scrape text data from a chosen Wikipedia page. This involves making an HTTP request to the Wikipedia page's URL, parsing the HTML content, and extracting the relevant text.
-     **Not limiting to the single page I just included dynamic search her. if want we can include the given link in the URL
+
+   **Not limiting to the single page I just included dynamic search her. if want we can include the given link in the URL
 
 
 3. **Text Summarization and Document Saving:** Apply a text summarization technique (extractive or abstractive) to condense the content into a concise summary. Save the resulting summary in a document or a file.
