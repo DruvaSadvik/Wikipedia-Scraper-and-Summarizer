@@ -3,6 +3,21 @@
 
 This project involves scraping information from Wikipedia and generating summaries of the scraped content. The project is divided into several components, including data scraping, text summarization, quality evaluation, chatbot integration, and dataset creation.
 
+
+# Project Files 📂
+
+📄 **Alexander.docx** - Extracted from Wikipedia
+📄 **Alexander_summarized.docx** - Summarized data from Alexander.docx
+📊 **Analysis.ipynb** - Quality Evaluation of Summarized Data
+🤖 **ChatBot.py** - Chatbot created with summarized data
+📋 **Report - Wikipedia Scraper and Summarizer.docx** - Detailed project report
+📄 **Summarization.ipynb** - Summarization of scrapped data
+🔍 **Wiki_Scrapper.ipynb** - Wikipedia page scraping
+📝 **Creating_dataSet.py** - Python code for creating a dataset of main events
+🚀 **end_2_end_pipeline.py** - Start-to-end pipeline for every event
+📊 **Important_data.xlsx** - Excel file with important event dataset
+
+
 ### Flow of the Project 🚀
 
 ### Flowchart
