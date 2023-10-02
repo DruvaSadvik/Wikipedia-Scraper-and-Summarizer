@@ -34,14 +34,16 @@ This project involves scraping information from Wikipedia and generating summari
 ![image](https://github.com/DruvaSadvik/Wikipedia-Scraper-and-Summarizer/assets/113775020/4ed2ccf4-5659-496c-9d7a-768d1a5b995a)
 
 1. **Scrape Data from Wikipedia:** Use the Beautiful Soup library in Python to scrape text data from a chosen Wikipedia page. This involves making an HTTP request to the Wikipedia page's URL, parsing the HTML content, and extracting the relevant text.
+     **Not limiting to the single page I just included dynamic search her. if want we can include the given link in the URL
 
-2. **Text Summarization and Document Saving:** Apply a text summarization technique (extractive or abstractive) to condense the content into a concise summary. Save the resulting summary in a document or a file.
 
-3. **Quality Evaluation of Summarized Data:** Assess the quality of the summarized data, evaluating criteria such as readability, coherence, and relevance. Compare the summary to the original text to ensure accuracy and completeness.
+3. **Text Summarization and Document Saving:** Apply a text summarization technique (extractive or abstractive) to condense the content into a concise summary. Save the resulting summary in a document or a file.
 
-4. **Chatbot Creation for Summarization:** Create a chatbot using a natural language processing framework (Vertex AI). Train the chatbot to generate summaries based on user input and enable it to respond to user queries with relevant summaries.
+4. **Quality Evaluation of Summarized Data:** Assess the quality of the summarized data, evaluating criteria such as readability, coherence, and relevance. Compare the summary to the original text to ensure accuracy and completeness.
 
-5. **Dataset Creation of Important Events:** From the generated summaries, create a dataset of significant events, facts, or key points. This dataset can be used for further analysis, research, or machine learning model training.
+5. **Chatbot Creation for Summarization:** Create a chatbot using a natural language processing framework (Vertex AI). Train the chatbot to generate summaries based on user input and enable it to respond to user queries with relevant summaries.
+
+6. **Dataset Creation of Important Events:** From the generated summaries, create a dataset of significant events, facts, or key points. This dataset can be used for further analysis, research, or machine learning model training.
 
 ## Report 📊
 
